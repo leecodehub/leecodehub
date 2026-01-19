@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven B. Lee</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Appointly**
+- 🔭 I’m currently working on **Appointment-System**
 
-- 🌱 I’m currently learning **Html,Java and Python**
+- 🌱 I’m currently learning **Html**
 
 - 👯 I’m looking to collaborate on **Dimco,Candilas,Lascuna and Japona**
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leecodehub&show_icons=true&locale=en" alt="leecodehub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leecodehub&" alt="leecodehub" /></p>
+
