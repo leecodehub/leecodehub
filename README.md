@@ -1,3 +1,6 @@
+<img width="1460" height="597" alt="banner-terraria-good" src="https://github.com/user-attachments/assets/c1982c2e-31bb-457a-84ac-c1e1d84d7847" />
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/leecodehub/leecodehub/main/17-sharp-centered-mushroom.gif" alt="Steven B. Lee - Sharp centered mushroom biome banner with name in front" width="100%" />
 </p>
