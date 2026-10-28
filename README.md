@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A120B,50:6B4226,100:5A9E2F&height=220&section=header&text=STEVEN%20B.%20LEE&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=55&descAlign=50" alt="Steven B. Lee banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A120B,50:6B4226,100:5A9E2F&height=240&section=header&text=STEVEN%20B.%20LEE&fontSize=42&fontColor=FFD166&animation=blinking&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=58&descAlign=50" alt="Steven B. Lee - hosted Terraria wave banner, name blinking in and out" width="100%" />
 </p>
 
 <p align="center">
@@ -36,22 +36,27 @@ Hi, I'm **Steven B. Lee** — a passionate frontend developer from the **Philipp
 
 ---
 
-### 🎒 Inventory — Languages and Tools
+### 🎒 Inventory — Tech Stack
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" /></a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" /></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React JS" width="48" height="48" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" /></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" /></a>
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48" />
 </p>
 
 <p align="center">
-  <b>Main loadout:</b> HTML5 · Java · MariaDB · Python<br />
-  <b>Also spotted in his repos:</b> Dart · PHP / Blade · JavaScript · CSS · HTML
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
+  <b>Tech stack:</b> Dart · Python · PHP · Laravel · React JS · Flutter · Firebase · Cloudinary · Vercel · Render · GitHub
 </p>
 
 ---
