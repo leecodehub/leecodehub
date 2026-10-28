@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leecodehub/leecodehub/main/banner-terraria-good.gif" alt="Steven B. Lee - Terraria banner, words washed by a water wave" width="100%" />
-</p>
+<img width="1460" height="597" alt="banner-terraria-good" src="https://github.com/user-attachments/assets/4d467a9e-a893-48bd-bf99-ae9a41aef48d" />
+
 
 ### ⛏️ Hi, I'm Steven B. Lee
 
