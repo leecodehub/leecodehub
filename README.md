@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="banner-terraria-goods" src="https://github.com/user-attachments/assets/886b7b1f-50e7-433d-a601-8ea51454aa54" />
+<img width="1460" height="597" alt="banner-terraria-good" src="https://github.com/user-attachments/assets/63e5e565-7714-430d-b9ae-028f3198a1cc" />
 
 
 ### ⛏️ Hi, I'm Steven B. Lee
